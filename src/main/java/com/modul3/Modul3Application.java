@@ -4,10 +4,6 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 import java.time.*;
-import java.util.*;
-import java.lang.*;
-import java.io.*;
-import java.time.*;
 
 public class Modul3Application {
 
